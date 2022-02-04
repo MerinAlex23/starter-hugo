@@ -25,13 +25,13 @@ interests:
 # Education to show in About widget
 education:
   courses:
-  - course: Computer Science & Engineering
+  - course: B.Tech in Computer Science & Engineering
     institution: St. Joseph's College of Engineering and Technology, Palai
     year: 2019-2023
-  - course: MEng in Artificial Intelligence
+  - course: Higher Secondary  Education
     institution: Chavara Public School Pala
     year: 2017-2019
-  - course: BSc in Artificial Intelligence
+  - course: Secondary Education
     institution: Sanjos Public School, Choondacherry
     year: 2004-2017
 
