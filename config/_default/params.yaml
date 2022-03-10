@@ -20,8 +20,8 @@ twitter: ''
 
 # Contact (edit or remove options as required)
 
-email: test@example.org
-phone: 888 888 88 88
+email: merinchoc23@gmail.com
+phone: 6238243003
 address:
   street: 450 Serra Mall
   city: Stanford
@@ -156,13 +156,3 @@ cms:
 icon:
   pack:
     ai: true
-footer:
-  copyright:
-    notice: '© {year} Me. This work is licensed under {license}'
-    license:
-      enable: true
-      allow_derivatives: false
-      share_alike: true
-      allow_commercial: false
-  # For multilingual sites, show a language chooser in the footer?
-  show_translations: true
